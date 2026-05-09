@@ -48,4 +48,4 @@ Capturar automaticamente todas as interações com os endpoints `/api/*`.
 ## Próximos Passos
 1. [x] Configurar `src/lib/logger.ts`.
 2. [x] Adicionar `system_logs` ao schema do Drizzle em `src/lib/db.ts`.
-3. [ ] Implementar middleware de logs para as API Routes.
+3. [x] Implementar middleware de logs para as API Routes.
