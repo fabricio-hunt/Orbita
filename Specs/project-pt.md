@@ -241,13 +241,13 @@ vercel --prod
 - [x] Agente conversacional com tool use
 - [x] Integração SimilarWeb API
 - [ ] Deploy Vercel + domínio público
-- [ ] Auth com Google (NextAuth)
+- [x] Auth com Google (NextAuth)
 - [ ] Histórico de conversas no Neon
-- [ ] Rate limiting com Upstash
+- [x] Rate limiting com Upstash
 
 ### v1.1 — Qualidade
 - [ ] Streaming de respostas (SSE)
-- [ ] Cache inteligente de respostas SimilarWeb
+- [x] Cache inteligente de respostas SimilarWeb
 - [ ] Tratamento de erros e limites do plano SimilarWeb
 - [ ] Testes de integração para as tools
 
