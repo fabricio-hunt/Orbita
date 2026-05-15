@@ -242,7 +242,7 @@ vercel --prod
 - [x] Integração SimilarWeb API
 - [ ] Deploy Vercel + domínio público
 - [x] Auth com Google (NextAuth)
-- [ ] Histórico de conversas no Neon
+- [x] Histórico de conversas no Neon
 - [x] Rate limiting com Upstash
 
 ### v1.1 — Qualidade
