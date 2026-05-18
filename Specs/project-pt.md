@@ -249,7 +249,7 @@ vercel --prod
 - [ ] Streaming de respostas (SSE)
 - [x] Cache inteligente de respostas SimilarWeb
 - [ ] Tratamento de erros e limites do plano SimilarWeb
-- [ ] Testes de integração para as tools
+- [x] Testes de integração para as tools
 
 ### v1.2 — Multi-usuário
 - [ ] Dashboard de uso por usuário
